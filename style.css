@@ -1,0 +1,50 @@
+.heading {
+    background-color: #2E282A;
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    color: #17BEBB;
+    padding: 10px;
+}
+
+.note {
+    font-size: 17px;
+    color: #FAD8D6;
+}
+
+body {
+    background-size: cover;
+}
+
+.div_speed {
+    float: left;
+    margin-left: 50px;
+}
+
+.div_img {
+    width: 400px;
+    border-radius: 200px;
+}
+
+#song1, #song2 {
+    background-color: #EDB88B;
+    color: #CD5334;
+    font-size: 100px;
+    margin: 15px;
+    border-radius: 30px;
+}
+
+.div_vol {
+    float: right;
+    margin-right: 50px;
+}
+
+canvas {
+    border: 5px ridge white;
+    border-radius: 20px;
+    margin-top: 150px;
+}
+
+
+/* https://coolors.co/17bebb-2e282a-cd5334-edb88b-fad8d6 */
+
